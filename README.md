@@ -14,23 +14,6 @@ The notes are stored as `.onepkg` files in a OneDrive folder for convenient acce
 
 ---
 
-## Folder Structure
-
-The repository is organized into folders for each subject in the study program:
-
-- **Subject 1**: Lecture notes, practical exercises, and additional materials for Subject 1.
-- **Subject 2**: Lecture notes, practical exercises, and additional materials for Subject 2.
-- **Subject 3**: Lecture notes, practical exercises, and additional materials for Subject 3.
-- *(Add more subjects as needed)*
-
-Each folder contains subcategories for:
-
-- **Lecture Notes**: Detailed summaries and key points from each lecture.
-- **Practical Exercises**: Hands-on tasks and solutions from lab sessions.
-- **Exam Preparation**: Study guides, flashcards, and practice questions.
-
----
-
 ## How to Use This Repository
 
 1. **Access Materials**:
