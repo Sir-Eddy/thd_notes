@@ -9,6 +9,7 @@ The notes are stored as `.onepkg` files in a OneDrive folder for convenient acce
 [Access the notes here](https://1drv.ms/f/c/b97b5fa10d3921cd/EvJd6im5F4RFmDhGoeKofFsBrDnV4lc5rQJiFeAbmXhpmQ?e=NBJaFZ)
 
 **Access Password:** `THD-CY-Sir-Eddy`
+**DARK MODE NEEDS TO BE ENABLED IN ONENOTE!**
 
 ## How to Use This Repository
 
