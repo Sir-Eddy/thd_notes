@@ -8,9 +8,9 @@ The notes are stored as `.onepkg` files in a OneDrive folder for convenient acce
 
 **DARK MODE SHOULD BE ENABLED! (Look below)**
 
-[First Semester](https://1drv.ms/o/c/b97b5fa10d3921cd/Eg-W69I0dCdAuOqOoy7aZxgBFo49WykjPEhxJh8zSCyyvA?e=Va4A0g)
+[1. Semester](https://1drv.ms/o/c/b97b5fa10d3921cd/Eg-W69I0dCdAuOqOoy7aZxgBFo49WykjPEhxJh8zSCyyvA?e=Va4A0g)
 
-[Second Semester](https://1drv.ms/o/c/b97b5fa10d3921cd/Emb_Zj_qncxMh4jhL80b0joBnxds55Sv1eut4YLyn6D-BQ?e=4A0AO5)
+[2. Semester](https://1drv.ms/o/c/b97b5fa10d3921cd/Emb_Zj_qncxMh4jhL80b0joBnxds55Sv1eut4YLyn6D-BQ?e=4A0AO5)
 
 ## Activate Dark Mode
 
