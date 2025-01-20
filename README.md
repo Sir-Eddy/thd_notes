@@ -6,22 +6,15 @@ Welcome to my personal notes repository for my Cyber Security B. Sc. study progr
 
 The notes are stored as `.onepkg` files in a OneDrive folder for convenient access and updates:
 
-**DARK MODE NEEDS TO BE ENABLED IN ONENOTE!**
+**DARK MODE SHOULD BE ENABLED! (Look below)**
 
 [First Semester](https://1drv.ms/o/c/b97b5fa10d3921cd/Eg-W69I0dCdAuOqOoy7aZxgBFo49WykjPEhxJh8zSCyyvA?e=Va4A0g)
 
 [Second Semester](https://1drv.ms/o/c/b97b5fa10d3921cd/Emb_Zj_qncxMh4jhL80b0joBnxds55Sv1eut4YLyn6D-BQ?e=4A0AO5)
 
-## How to Use This Repository
+## Activate Dark Mode
 
-1. **Access Materials**:
-   - Click the OneDrive link above.
-   - Enter the access password when prompted.
-   - Download the `.onepkg` files and open them using Microsoft OneNote.
-
-2. **Recommended Settings**:
-   - To prevent display issues, it is recommended to enable OneNote's dark mode.
-   - You can do this by navigating to File -> Account -> Office Theme -> Black.
+My notebooks are created with dark mode enabled. If accessed in light mode, black handwriting is inverted to white. This causes an issue with exported PDFs, as white text appears on a white background, making it invisible. Unfortunately, OneNote Web does not support dark mode. As a workaround, I recommend installing a dark mode browser extension, such as [Dark Reader](https://darkreader.org/), to ensure better visibility.
      
 ## Disclaimer
 
