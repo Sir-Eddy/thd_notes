@@ -1,8 +1,4 @@
-# THD Notes
-
-
-![Logo](THD-Logo-small.png)
-
+# ![Logo](THD-Logo-small.png) Notes
 
 👋 Welcome to my personal notes repository for my Cyber Security B. Sc. study program.
 
