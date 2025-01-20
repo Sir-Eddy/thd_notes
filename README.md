@@ -16,6 +16,15 @@ You can access the OneNote files by clicking on the respective links below:
 
 [3. Semester (Work in Progress)](https://1drv.ms/o/c/b97b5fa10d3921cd/EjrexhkIEfxCuQhbJK_piocBk_AZ0upD_w4cuIXRVcwyXQ?e=9PaQBY)
 
+[4. Semester (Work in Progress)](https://1drv.ms/o/c/b97b5fa10d3921cd/Eo34QKI7nB1BuEK8diIEbTcBqt3wYQG4flCwvr_-T8yL1A?e=Q1zle5)
+
+[5. Semester (Practical Semester - No Notes)]()
+
+[6. Semester (Unavailable)]()
+
+[7. Semester (Unavailable)]()
+
+
 ## Activate Dark Mode
 
 My notebooks are created with dark mode enabled. If accessed in light mode, black handwriting is inverted to white. This causes an issue with exported PDFs, as white text appears on a white background, making it invisible. Unfortunately, OneNote Web does not support dark mode. As a workaround, I recommend installing a dark mode browser extension, such as [Dark Reader](https://darkreader.org/), to ensure better visibility.
