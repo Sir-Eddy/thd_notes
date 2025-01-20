@@ -1,10 +1,10 @@
 # THD Notes
 
-Welcome to my personal notes repository for my Cyber Security B. Sc. study program. Here, I document key concepts, learnings, and resources from my studies to help organize and consolidate knowledge. 
+👋 Welcome to my personal notes repository for my Cyber Security B. Sc. study program.
 
 ## Access Information
 
-The notes are stored as `.onepkg` files in a OneDrive folder for convenient access and updates:
+You can access the OneNote files by clicking on the respective links below:
 
 **DARK MODE SHOULD BE ENABLED! (Look below)**
 
