@@ -6,7 +6,9 @@
 
 You can access the OneNote files by clicking on the respective links below:
 
-**DARK MODE SHOULD BE ENABLED! (Look below)**
+**🌙 DARK MODE SHOULD BE ENABLED! (Look below)**
+
+**💻✅ OPEN ONLY ON PC - 📵 NO MOBILE SUPPORT!**
 
 [1. Semester](https://1drv.ms/o/c/b97b5fa10d3921cd/Eg-W69I0dCdAuOqOoy7aZxgBFo49WykjPEhxJh8zSCyyvA?e=Va4A0g)
 
