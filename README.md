@@ -6,11 +6,11 @@ Welcome to my personal notes repository for my Cyber Security B. Sc. study progr
 
 The notes are stored as `.onepkg` files in a OneDrive folder for convenient access and updates:
 
-[Access the notes here](https://1drv.ms/f/c/b97b5fa10d3921cd/EvJd6im5F4RFmDhGoeKofFsBrDnV4lc5rQJiFeAbmXhpmQ?e=NBJaFZ)
-
-**Access Password:** `THD-CY-Sir-Eddy`
-
 **DARK MODE NEEDS TO BE ENABLED IN ONENOTE!**
+
+[First Semester](https://1drv.ms/o/c/b97b5fa10d3921cd/Eg-W69I0dCdAuOqOoy7aZxgBFo49WykjPEhxJh8zSCyyvA?e=Va4A0g)
+
+[Second Semester](https://1drv.ms/o/c/b97b5fa10d3921cd/Emb_Zj_qncxMh4jhL80b0joBnxds55Sv1eut4YLyn6D-BQ?e=4A0AO5)
 
 ## How to Use This Repository
 
