@@ -1,4 +1,4 @@
-# ![Logo](THD-Logo-small.png)   - Notes
+# ![Logo](THD-Logo.png)   - Notes
 
 👋 Welcome to my personal notes repository for my Cyber Security B. Sc. study program.
 
