@@ -14,7 +14,7 @@ You can access the OneNote files by clicking on the respective links below:
 
 [2. Semester](https://1drv.ms/o/c/b97b5fa10d3921cd/Emb_Zj_qncxMh4jhL80b0joBnxds55Sv1eut4YLyn6D-BQ?e=4A0AO5)
 
-[3. Semester (Work in Progress)](https://1drv.ms/o/c/b97b5fa10d3921cd/EjrexhkIEfxCuQhbJK_piocBk_AZ0upD_w4cuIXRVcwyXQ)
+[3. Semester](https://1drv.ms/o/c/b97b5fa10d3921cd/EjrexhkIEfxCuQhbJK_piocBk_AZ0upD_w4cuIXRVcwyXQ)
 
 [4. Semester (Work in Progress)](https://1drv.ms/o/c/b97b5fa10d3921cd/Eo34QKI7nB1BuEK8diIEbTcBqt3wYQG4flCwvr_-T8yL1A?e=Q1zle5)
 
